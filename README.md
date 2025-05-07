@@ -34,7 +34,7 @@ ___
 ___
 
 ## 📊 Stats
-![Loc-kd's Github stats](https://github-readme-stats.vercel.app/api?username=Loc-kd&show_icons=true&theme=gruvbox)
+![Loc-kd's Github stats](https://github-readme-stats.vercel.app/api?username=Loc-kd&show_icons=true&theme=bear)
 
 
 
